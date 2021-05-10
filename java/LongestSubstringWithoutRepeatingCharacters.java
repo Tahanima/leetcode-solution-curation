@@ -1,6 +1,6 @@
 class LongestSubstringWithoutRepeatingCharacters {
   public int lengthOfLongestSubstring(String s) {
-    int mark[] = new int[500];
+    int[] mark = new int[500];
     int len = s.length(), en = 0, mx = 0, cnt = 0;
     
     for (int st = 0; st < len; st++) {
