@@ -1,4 +1,4 @@
-public class LongestSubstringWithoutRepeatingCharacters {
+public class Solution {
     public int LengthOfLongestSubstring(string s) {
         int[] mark = new int[500];
         int len = s.Length, en = 0, mx = 0, cnt = 0;

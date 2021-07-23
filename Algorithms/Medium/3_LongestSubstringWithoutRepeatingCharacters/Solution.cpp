@@ -1,4 +1,4 @@
-class LongestSubstringWithoutRepeatingCharacters {
+class Solution {
 public:    
     int lengthOfLongestSubstring(string s) {
         int mark[500] = {0}, len = s.size(), en = 0, mx = 0, cnt = 0;
