@@ -9,10 +9,10 @@ Welcome to the *LeetCode Solution Curation* repository! 👋
 If you would like to contribute to the repository, make sure to go through the following steps:
 
 ### Step 0 ###
-* **Fork**
+* **Fork**  
 You can get your own copy of [leetcode-solution-curation](https://github.com/Tahanima/leetcode-solution-curation) by using the <a href="https://github.com/Tahanima/leetcode-solution-curation/new/main?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or by clicking [this](https://github.com/Tahanima/leetcode-solution-curation/new/main?readme=1#fork-destination-box).
 
-* **Clone**
+* **Clone**  
 You need to clone, i.e, download your copy of the repository to your local machine using the following command in the terminal.
 ```bash
 # Creates a folder named `leetcode-solution-curation` in the current directory with appropriate resources
@@ -26,7 +26,7 @@ Once you have cloned the `leetcode-solution-curation` repository, your next task
 $ cd leetcode-solution-curation
 ```
 
-* **Setup**
+* **Setup**  
 Now, you need to run the following command to see that your local copy has a reference to your forked remote repository in GitHub.
 ```bash
 $ git remote -v
@@ -41,7 +41,7 @@ You need to then add a reference to the original [leetcode-solution-curation](ht
 $ git remote add upstream https://github.com/Tahanima/leetcode-solution-curation.git
 ```
 
-* **Sync**
+* **Sync**  
 Try to always keep your copy of the repository updated with the original repository. Before making any changes and/or in an appropriate interval, run the following commands to update your local repository.
 
 ```bash
@@ -75,7 +75,7 @@ $ git commit -m 'relevant message'
 $ git push -u origin branch_name
 ```
 
-After you have added your changes to your remote repository, go to the repository from your browser and click on `compare and pull requests`. Then, add a title and a description to your pull request.
+Now, go to the repository from your browser and click on `compare and pull requests`. Then, add a title and a description to your pull request and submit it.
 
 ## License
 <a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" style="border-width:0" height="50" src="https://w7.pngwing.com/pngs/514/841/png-transparent-mit-license-bsd-licence-open-source-license-copyright-miscellaneous-text-logo.png" /></a><br />This work is licensed under the <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
