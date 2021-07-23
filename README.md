@@ -16,13 +16,11 @@ You can get your own copy of [leetcode-solution-curation](https://github.com/Tah
 You need to clone, i.e, download your copy of the repository to your local machine using the following command in the terminal.
 ```bash
 # Creates a folder named `leetcode-solution-curation` in the current directory with appropriate resources
-
 $ git clone https://github.com/[your_username]/leetcode-solution-curation.git
 ```
 Once you have cloned the `leetcode-solution-curation` repository, your next task is to move to that folder using the following command.
 ```bash
 # Changes current directory to a folder named `leetcode-solution-curation`
-
 $ cd leetcode-solution-curation
 ```
 
@@ -37,7 +35,6 @@ You need to then add a reference to the original [leetcode-solution-curation](ht
 
 ```bash
 # Adds a new remote named `upstream`
-
 $ git remote add upstream https://github.com/Tahanima/leetcode-solution-curation.git
 ```
 
