@@ -1,4 +1,4 @@
-Welcome to the LeetCode Solution Curation repository! 👋
+Welcome to the *LeetCode Solution Curation* repository! 👋
 ---
 
 [LeetCode](https://leetcode.com/) is one of the most well-known online judge platforms which provides hands-on training on real coding interview questions. This repository aims to curate solutions and resources for as many LeetCode problems as possible.
