@@ -10,7 +10,7 @@ If you would like to contribute to the repository, make sure to go through the f
 
 ### Step 0 ###
 * **Fork**  
-You can get your own copy of [leetcode-solution-curation](https://github.com/Tahanima/leetcode-solution-curation) by using the <a href="https://github.com/Tahanima/leetcode-solution-curation/new/main?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or by clicking [this](https://github.com/Tahanima/leetcode-solution-curation/new/main?readme=1#fork-destination-box).
+You can get your own copy of [leetcode-solution-curation](https://github.com/Tahanima/leetcode-solution-curation) by clicking the <kbd><b>Fork</b></kbd> button.
 
 * **Clone**  
 You need to clone, i.e, download your copy of the repository to your local machine using the following command in the terminal.
