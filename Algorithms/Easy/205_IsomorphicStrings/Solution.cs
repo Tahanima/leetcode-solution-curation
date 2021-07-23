@@ -1,4 +1,4 @@
-public class IsomorphicStrings {
+public class Solution {
     public bool IsIsomorphic(string s, string t) {
         int len = s.Length;
         bool isIso = true;

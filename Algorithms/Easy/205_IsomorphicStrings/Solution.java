@@ -1,4 +1,4 @@
-class IsomorphicStrings {
+class Solution {
     public boolean isIsomorphic(String s, String t) {
         int len = s.length();
         boolean isIso = true;

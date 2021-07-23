@@ -1,4 +1,4 @@
-class IsomorphicStrings {
+class Solution {
 public:
     bool isIsomorphic(string s, string t) {
         int len = s.size();

@@ -1,4 +1,4 @@
-class ReverseInteger {
+class Solution {
 public:
     int reverse(int x) {
         signed long long rev = 0, num = x;
@@ -18,5 +18,5 @@ public:
             rev *= -1LL;
             
         return (int)rev;
-  }
+    }
 };
