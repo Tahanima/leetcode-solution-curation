@@ -1,7 +1,7 @@
 Welcome to the *LeetCode Solution Curation* repository! 👋
 ---
 
-[LeetCode](https://leetcode.com/) is one of the most well-known online judge platforms which provides hands-on training on real coding interview questions. This repository aims to curate solutions and resources for as many LeetCode problems as possible.
+[LeetCode](https://leetcode.com/) is one of the most well-known online judge platforms which provides hands-on training on real coding interview questions. This repository aims to curate solutions (in different programming languages) and resources for as many LeetCode problems as possible.
 
 *The contents of this repository will get published [here](https://tahanima.github.io/hello-leetcode/)*. So, don't forget to check it out.
 
