@@ -17,6 +17,6 @@ public class Solution {
         int leftTree = MaxDepth(root.left) + 1;
         int rightTree = MaxDepth(root.right) + 1;
         
-        return leftTree>=rightTree ? leftTree:rightTree; 
+        return leftTree >= rightTree ? leftTree : rightTree; 
     }
 }
