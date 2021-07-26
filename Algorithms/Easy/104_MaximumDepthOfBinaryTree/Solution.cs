@@ -16,7 +16,6 @@ public class Solution {
         if (root == null) return 0;
         int leftTree = MaxDepth(root.left) + 1;
         int rightTree = MaxDepth(root.right) + 1;
-        
         return leftTree >= rightTree ? leftTree : rightTree; 
     }
 }
