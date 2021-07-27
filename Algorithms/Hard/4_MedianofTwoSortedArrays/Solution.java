@@ -3,7 +3,7 @@ class Solution {
         double median = 0.0;
         int n1 = nums1.length;
         int n2 = nums2.length;
-        int arr[] = new int[n1+n2];
+        int arr[] = new int[n1 + n2];
         int i = 0, j = 0; 
         int k = 0; 
         while (i < n1 && j < n2) { 
@@ -29,11 +29,11 @@ class Solution {
             k++; 
         }
               
-        if(arr.length%2 == 0){
-            median = (arr[(arr.length/2)-1] + arr[arr.length/2]) / 2.0;
+        if(arr.length % 2 == 0){
+            median = (arr[(arr.length / 2) - 1] + arr[arr.length / 2]) / 2.0;
         }
         else{
-            median = (arr[arr.length/2]) / 1.0;
+            median = (arr[arr.length / 2]) / 1.0;
         }
         return median;   
     }
