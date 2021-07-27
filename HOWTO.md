@@ -40,10 +40,13 @@ $ git remote add upstream https://github.com/Tahanima/leetcode-solution-curation
 # Switches to `main` branch
 $ git checkout main
 
-# Resets local `main` branch to match `upstream` repository's `main` branch
-$ git reset --hard upstream/main
+# Fetches the branches and their respective commits from the `upstream` repository
+$ git fetch upstream
 
-# Push changes to your forked `leetcode-solution-curation` repo
+# Merges the changes from upstream/main into your local default branch
+$ git merge upstream/main
+
+# Pushes changes to your forked `leetcode-solution-curation` repo
 $ git push origin main
 ```
 
