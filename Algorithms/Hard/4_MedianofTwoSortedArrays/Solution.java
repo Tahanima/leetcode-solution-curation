@@ -30,11 +30,11 @@ class Solution {
             k++; 
         }
         
-        if(combinedArr.length%2 == 0){
-            median = (combinedArr[(combinedArr.length/2)-1] + combinedArr[combinedArr.length/2]) / 2.0;
+        if(combinedArr.length % 2 == 0){
+            median = (combinedArr[(combinedArr.length/2) - 1] + combinedArr[combinedArr.length/2]) / 2.0;
         }
         else{
-            median = (combinedArr[combinedArr.length/2]) / 1.0;
+            median = (combinedArr[combinedArr.length / 2]) / 1.0;
         }
         return median;   
     }
