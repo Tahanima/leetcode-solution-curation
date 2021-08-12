@@ -1,4 +1,4 @@
-# This solution if for python3, may or may not work for other versions
+# This solution is for python3, may or may not work for other versions
 
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
