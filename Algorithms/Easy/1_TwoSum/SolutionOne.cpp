@@ -2,8 +2,8 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         vector<pair<int, int>> valueIndexPair;
-	    vector<int> answer;	
-	    int index1, index2, sum;
+	vector<int> answer;	
+	int index1, index2, sum;
 
         for(int k = 0; k < nums.size(); k++) {
             valueIndexPair.push_back(pair<int, int>(nums[k], k));
@@ -11,13 +11,13 @@ public:
         
         sort(valueIndexPair.begin(), valueIndexPair.end());
         
-	    index1 = 0;
-	    index2 = valueIndexPair.size() - 1;
+	index1 = 0;
+	index2 = valueIndexPair.size() - 1;
 
         while(index1 < index2) {
             sum = valueIndexPair[index1].first + valueIndexPair[index2].first;
             
-	        if(sum == target)
+	    if(sum == target)
                 break;
             else if(sum < target)
                 index1++;
