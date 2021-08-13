@@ -1,12 +1,12 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<pair<int,int>> valueIndexPair;
-	    vector<int> returnVector;	
+        vector<pair<int, int>> valueIndexPair;
+	    vector<int> answer;	
 	    int index1, index2, sum;
 
         for(int k = 0; k < nums.size(); k++) {
-            valueIndexPair.push_back(pair<int,int>(nums[k], k));
+            valueIndexPair.push_back(pair<int, int>(nums[k], k));
         }
         
         sort(valueIndexPair.begin(), valueIndexPair.end());
@@ -25,9 +25,9 @@ public:
                 index2--;
         }
         
-        returnVector.push_back(valueIndexPair[index1].second);
-        returnVector.push_back(valueIndexPair[index2].second);
+        answer.push_back(valueIndexPair[index1].second);
+        answer.push_back(valueIndexPair[index2].second);
         
-        return returnVector;
+        return answer;
     }
 };

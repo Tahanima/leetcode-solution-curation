@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-        int index1 = 0, index2 = numbers.size()-1, sum;
-        vector<int> returnVector;
+        int index1 = 0, index2 = numbers.size() - 1, sum;
+        vector<int> answer;
         
         while(index1 < index2) {
             sum = numbers[index1] + numbers[index2];
@@ -15,9 +15,9 @@ public:
                 index2--;
         }
         
-        returnVector.push_back(index1 + 1);
-        returnVector.push_back(index2 + 1);
+        answer.push_back(index1 + 1);
+        answer.push_back(index2 + 1);
         
-        return returnVector;
+        return answer;
     }
 };
