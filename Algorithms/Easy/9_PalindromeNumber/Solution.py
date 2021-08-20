@@ -6,4 +6,5 @@ class Solution(object):
         b = int(str(x) [::-1])
         if b == x:
             return True
+            
         return False
