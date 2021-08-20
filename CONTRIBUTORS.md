@@ -10,4 +10,7 @@
     <td align="center"><a href="https://github.com/FahimFBA"><img src="https://avatars.githubusercontent.com/u/64195132?v=4" width="100px;" alt=""/><br /><sub><b>Md. Fahim Bin Amin</b></sub></a><br /><a href="https://github.com/Tahanima/leetcode-solution-curation/commits?author=FahimFBA" title="Contribution">📖</a></td>
     <td align="center"><a href="https://github.com/kmabadshah"><img src="https://avatars.githubusercontent.com/u/64491148?v=4" width="100px;" alt=""/><br /><sub><b>KMA Badshah</b></sub></a><br /><a href="https://github.com/Tahanima/leetcode-solution-curation/commits?author=kmabadshah" title="Contribution">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/NafiAsib"><img src="https://avatars.githubusercontent.com/u/38901581?v=4" width="100px;" alt=""/><br /><sub><b>Nafi Asib</b></sub></a><br /><a href="https://github.com/Tahanima/leetcode-solution-curation/commits?author=NafiAsib" title="Contribution">📖</a></td>
+  </tr>
 </table>
