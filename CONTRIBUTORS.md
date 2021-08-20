@@ -8,5 +8,6 @@
     <td align="center"><a href="https://github.com/r8025n"><img src="https://avatars.githubusercontent.com/u/43141944?v=4" width="100px;" alt=""/><br /><sub><b>Hasin Raihan Shovon</b></sub></a><br /><a href="https://github.com/Tahanima/leetcode-solution-curation/commits?author=r8025n" title="Contribution">📖</a></td>
     <td align="center"><a href="https://github.com/jabertuhin"><img src="https://avatars.githubusercontent.com/u/22750032?v=4" width="100px;" alt=""/><br /><sub><b>Jaber Tuhin</b></sub></a><br /><a href="https://github.com/Tahanima/leetcode-solution-curation/commits?author=jabertuhin" title="Contribution">📖</a></td>
     <td align="center"><a href="https://github.com/FahimFBA"><img src="https://avatars.githubusercontent.com/u/64195132?v=4" width="100px;" alt=""/><br /><sub><b>Md. Fahim Bin Amin</b></sub></a><br /><a href="https://github.com/Tahanima/leetcode-solution-curation/commits?author=FahimFBA" title="Contribution">📖</a></td>
+    <td align="center"><a href="https://github.com/kmabadshah"><img src="https://avatars.githubusercontent.com/u/64491148?v=4" width="100px;" alt=""/><br /><sub><b>KMA Badshah</b></sub></a><br /><a href="https://github.com/Tahanima/leetcode-solution-curation/commits?author=kmabadshah" title="Contribution">📖</a></td>
   </tr>
 </table>
