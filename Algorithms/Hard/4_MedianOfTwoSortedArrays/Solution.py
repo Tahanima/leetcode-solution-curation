@@ -9,6 +9,6 @@ class Solution:
             return nums3[(len(nums3) // 2)]
         else:
             return (
-                nums3[(len(nums3) // 2)-1] +
+                nums3[(len(nums3) // 2) - 1] +
                 nums3[(len(nums3) // 2)]
             ) / 2
