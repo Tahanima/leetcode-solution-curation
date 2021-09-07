@@ -12,5 +12,6 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/NafiAsib"><img src="https://avatars.githubusercontent.com/u/38901581?v=4" width="100px;" alt=""/><br /><sub><b>Nafi Asib</b></sub></a><br /><a href="https://github.com/Tahanima/leetcode-solution-curation/commits?author=NafiAsib" title="Contribution">📖</a></td>
+    <td align="center"><a href="https://github.com/IsratIJK"><img src="https://avatars.githubusercontent.com/u/74541103?v=4" width="100px;" alt=""/><br /><sub><b>Israt Jahan Khan</b></sub></a><br /><a href="https://github.com/Tahanima/leetcode-solution-curation/commits?author=IsratIJK" title="Contribution">📖</a></td>
   </tr>
 </table>
