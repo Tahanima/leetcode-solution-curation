@@ -5,9 +5,9 @@ class Solution:
         # otherwise go forward
 
         i = 1
-        while i<len(nums):
-            if nums[i-1] == nums[i]:
-                nums.pop(i-1)
+        while i < len(nums):
+            if nums[i - 1] == nums[i]:
+                nums.pop(i - 1)
             else:
                 i += 1
 
