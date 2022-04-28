@@ -4,7 +4,6 @@ class Solution {
         long max2 = -2147483649l;
         long max3 = -2147483649l;
         
-        
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] > max1) {
                 max3 = max2;
