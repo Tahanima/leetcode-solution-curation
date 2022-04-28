@@ -1,6 +1,6 @@
 Welcome to the **LeetCode Solution Curation**! If you are new to open source contribution and/or if you need a refresher on Git and GitHub basics, here are some resources to help you out:
 
-* [Hello World](https://guides.github.com/activities/hello-world/)
+* [Hello World](https://guides.github.com/activities/hello-world)
 * [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 * [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
 * [How to Fork and Clone a GitHub Repository](https://egghead.io/lessons/javascript-how-to-fork-and-clone-a-github-repository)
