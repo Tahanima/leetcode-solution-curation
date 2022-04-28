@@ -5,9 +5,12 @@ public:
         bitset<MX> mask;
         
         for (int i = 0; i < nums.size(); i++) {
-            if (mask[nums[i]] == 1) return nums[i];
+            if (mask[nums[i]] == 1) 
+                return nums[i];
+            
             mask[nums[i]] = 1;
         }
+        
         return 0;
     }
 };
