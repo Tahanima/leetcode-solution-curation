@@ -4,7 +4,6 @@ class Solution:
     def _get_count_of_equal_or_less(self, num_arr: List[int], value: int) -> int:
         return len([num for num in num_arr if num <= value])
 
-
     def findDuplicate(self, nums: List[int]) -> int:        
         left = 1
         right = len(nums) - 1
