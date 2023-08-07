@@ -1,6 +1,6 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        freq_arr = [ [] for _ in range(len(nums))]
+        freq_arr = [[] for _ in range(len(nums))]
         elem_freq_map = {}
 
         for elem in nums: 
@@ -13,6 +13,7 @@ class Solution:
 
         for i in range(len(freq_arr) - 1, -1, -1):
             if freq_arr[i]: res.extend(freq_arr[i])
+            
             if len(res) == k:
                 return res
 
